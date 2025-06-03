@@ -10,3 +10,19 @@
     "website": "https://t.me/LumeUSD"
   }
 }
+[
+  {
+    "chainId": 101,
+    "address": "DK9DNsfvWcHirv9YZ2GcLbKqaGMkQ2JVYFxU7cGhbx5M",
+    "symbol": "MASK",
+    "name": "The MASK Coin",
+    "decimals": 3,
+    "logoURI": "https://amaranth-negative-rat-588.mypinata.cloud/ipfs/bafkreifyglqjzp2bnnhesxdbfme3355sgedeb46qyvbo3chfbt3yrq4ovq",
+    "tags": ["meme", "utility"],
+    "extensions": {
+      "website": "https://www.themaskcoin.com",
+      "twitter": "https://x.com/TheMaskCoinMASK",
+      "telegram": "https://t.me/TheMaskCoinMASK"
+    }
+  }
+]
